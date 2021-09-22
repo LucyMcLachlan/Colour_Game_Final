@@ -1,5 +1,5 @@
 //Lucy McLachlan
-//sept 21
+//sept 22, block 1-3
 //Color game
 
 color purple = #8D2BCB, red = #980F0F, green=#27622D, blue=#25427E, orange=#C66912, teal=#12C692, yellow=#EAEA53, pink=#EA53AC;
